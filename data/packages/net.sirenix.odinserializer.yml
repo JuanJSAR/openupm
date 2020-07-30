@@ -1,0 +1,17 @@
+name: net.sirenix.odinserializer
+displayName: Odin Serializer
+description: 'Fast, robust, powerful and extendible .NET serializer built for Unity'
+repoUrl: 'https://github.com/JuanJSAR/odin-serializer'
+parentRepoUrl: 'https://github.com/TeamSirenix/odin-serializer'
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - editor-enhancement
+  - frameworks
+hunter: JuanJSAR
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+createdAt: 1596083920953
