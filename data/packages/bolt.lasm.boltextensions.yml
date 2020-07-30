@@ -1,0 +1,17 @@
+name: bolt.lasm.boltextensions
+displayName: Bolt Extensions
+description: Extensions for Bolt Visual Scripting for the Unity Engine
+repoUrl: 'https://github.com/JuanJSAR/BoltExtensions'
+parentRepoUrl: 'https://github.com/LifeandStyleMedia/BoltExtensions'
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - frameworks
+  - utilities
+hunter: JuanJSAR
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+createdAt: 1596079993304
