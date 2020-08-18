@@ -1,0 +1,16 @@
+name: com.webgl.disablemobilewarning
+displayName: WebGL Disable Mobile Warning
+description: null
+repoUrl: 'https://github.com/JuanJSAR/DisableMobileWarningWebGL'
+parentRepoUrl: null
+licenseSpdxId: null
+licenseName: CC0
+topics:
+  - utilities
+hunter: JuanJSAR
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+createdAt: 1597792635371
