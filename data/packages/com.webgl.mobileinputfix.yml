@@ -1,0 +1,16 @@
+name: com.webgl.mobileinputfix
+displayName: WebGL Mobile Input Fix
+description: A Unity WebGL workaround to enable mobile input (virtual keyboard) be triggered by Input Fields
+repoUrl: 'https://github.com/JuanJSAR/WebMobileInputFix'
+parentRepoUrl: 'https://github.com/dantasulisses/WebMobileInputFix'
+licenseSpdxId: null
+licenseName: CC0
+topics:
+  - utilities
+hunter: JuanJSAR
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: null
+readme: 'master:README.md'
+createdAt: 1597791055903
